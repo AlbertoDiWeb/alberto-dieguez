@@ -2,7 +2,7 @@
 
 
 def saludo():
-    print("Hola desde una función.")
+    print("Hola desde mi primera función.")
 
 
 saludo()
